@@ -1,0 +1,19 @@
+
+body{
+    background-color: darksalmon;
+
+}
+img.imgLogo{
+    position: relative;
+    
+}
+h2.FirstTitle{
+    font-style:tahoma;
+    font-size: 25px;
+    text-decoration-color: blue;
+    text-align: center;
+}
+h2.SecondTitle{
+text-decoration-color: brown;
+text-align: center;
+}
